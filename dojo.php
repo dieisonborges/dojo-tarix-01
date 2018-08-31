@@ -1,5 +1,21 @@
 <?php
 
+# Aprendizes:
+# Dieison X (Sexta Feira 13)
+# Juliana (Gabriela)
+# Benjamin Button (Borges)
+# Ericson (MD110)
+# Prof. Xavier
+# Rivelindo 
+# Salgado (Doce)
+# Marcão
+# Vieira
+# Pinheiro
+# Domingão
+# Fábio Henrique (Reginaldo Rossi)
+# Smurfs - Mumfim (Diego)
+
+
 $numero_romano=str_split(trim(strtoupper($_GET["romano"])));
 $total=0;
 $anterior =0;
